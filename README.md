@@ -14,7 +14,8 @@
 
 ## **TABLE OF CONTENTS**
 
-- [**1: List of Resources**](#1-list-of-resources)
+- [**1: Introduction**](#1-introduction)
+  - [1.1: List of Resources](#11-list-of-resources)
 
 - [**2: Segments & Order**](#2-segments--order)
 
@@ -48,9 +49,13 @@
 
 ---
 
-## **1: LIST OF RESOURCES**
+## **1: INTRODUCTION**
 
 > [*Back to TOC*](#table-of-contents)
+
+This user manual is specifically crafted for managing my \(Siddhant Shah's\) resources, which is useful for developing and interpreting resource identification codes.
+
+### **1.1: List of Resources**
 
 - **Articles / Listicles**
 
