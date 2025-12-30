@@ -283,7 +283,7 @@ This user manual is specifically crafted for managing my \(Siddhant Shah's\) res
 
 - ### **4.2: LINOE0000AH**
 
-  - **L**: *it is either a Library or a Module or a Package.*
+  - **L**: *it is either a Library or a Module or Package.*
   - **INOE**: *it is for / based-on Arduino IDE.*
   - **0000**: *it is not known when it was created.*
   - **AH**: *it is the 8th \(\(\(A1 \- 1\) \* 26\) \+ H8\) arduino library in the unknown date category.*
